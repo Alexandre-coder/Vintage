@@ -13,7 +13,7 @@ color: red;
   padding: 14px 16px;
 }
 
-div {
-border-style:solid;
+#test {
+border-style: solid;
 border-color: blue;
 }
